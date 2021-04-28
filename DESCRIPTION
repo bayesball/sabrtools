@@ -1,0 +1,14 @@
+Package: sabrtools
+Type: Package
+Title: Tools for Baseball Work
+Version: 0.1.0
+Author: Jim Albert
+VignetteBuilder: knitr
+Suggests: 
+Imports:  dplyr
+Maintainer: Jim Albert <albert@bgsu.edu>
+URL: https://github.com/bayesball/sabrtools
+Description: A collection of functions useful for exploring baseball data.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
